@@ -27,6 +27,8 @@ void insert(int*& arr, int& size, int index, int value) {
     size++;
 }
 
+
+
 int main() {
 
     // Difference between static and dynamic array
